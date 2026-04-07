@@ -78,6 +78,20 @@ In this implementation, we use the Prototype pattern to manage different types o
   - Shows that clones are separate objects
   - Displays information about each created animal
 
+## Expected Output
+```
+    ORIGINAL PROTOTYPES
+    The original Sheep is named Dolly
+    The original Cow says Moo!
+    The original Horse is Black
+
+    CLONED ANIMALS
+    The cloned Sheep is named Molly
+    The cloned Cow sounds Maa!
+    The cloned Cow eats Grass
+    The cloned Horse is Brown
+```
+
 ## Class Diagram
 
 ![Class Diagram](image.png)
